@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shahryar.akhtar/Downloads/sheryar/sheryar/woe_graphs_n_tables_postpaid/woe_graphs_n_tables/mlruns/252482609074690329/c467c6ab97bc469a862e41b7b258ae1a/artifacts
+end_time: 1713179432652
+entry_point_name: ''
+experiment_id: '252482609074690329'
+lifecycle_stage: active
+run_id: c467c6ab97bc469a862e41b7b258ae1a
+run_name: Decision Tree
+run_uuid: c467c6ab97bc469a862e41b7b258ae1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713179355525
+status: 3
+tags: []
+user_id: shahryar.akhtar

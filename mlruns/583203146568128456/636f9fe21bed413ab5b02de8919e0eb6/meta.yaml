@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shahryar.akhtar/Downloads/sheryar/sheryar/woe_graphs_n_tables_postpaid/woe_graphs_n_tables/mlruns/583203146568128456/636f9fe21bed413ab5b02de8919e0eb6/artifacts
+end_time: 1713339985968
+entry_point_name: ''
+experiment_id: '583203146568128456'
+lifecycle_stage: active
+run_id: 636f9fe21bed413ab5b02de8919e0eb6
+run_name: Logistic Regression
+run_uuid: 636f9fe21bed413ab5b02de8919e0eb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713339983486
+status: 3
+tags: []
+user_id: shahryar.akhtar
